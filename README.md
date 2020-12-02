@@ -31,7 +31,7 @@ are:
 * L = 350668 hours
 * lamb = 10
 
-The paramters used for the LASSO experiment:
+The parameters used for the LASSO experiment:
 
 ```
 X_mat = featurize_fourier(x_train, d, L)
